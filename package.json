@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "server_work",
+  "version": "1.0.0",
+  "main": "server.js",
+  
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
